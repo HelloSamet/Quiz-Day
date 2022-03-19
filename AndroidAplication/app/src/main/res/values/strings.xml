@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizDays</string>
+    <string name="title_activity_home">ActivityHome</string>
+    <string name="tab_text_1">   Home   </string>
+    <string name="tab_text_2">Programmes</string>
+    <string name="tab_text_3">MyLearning</string>
+    <string name="tab_text_4"> PlayGame </string>
+</resources>
